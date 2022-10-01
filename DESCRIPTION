@@ -1,0 +1,12 @@
+Package: psm5021
+Type: Package
+Title: psm5021 simple wrapper for common functions in item and score analysis
+Version: 0.1.0
+Author: dacarras
+Maintainer: dacarras <dacarras@uc.cl>
+Description: Collection of simple wrapper functions for descriptives and data preparation for item and score analysis. Several functions were derived from r4sda, its parent library.
+Imports: dplyr, tidyr, purrr, rlang, skimr, labelled
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+
